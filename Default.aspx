@@ -40,3 +40,6 @@
     </div>
 
 </asp:Content>
+
+
+https://stackoverflow.com/questions/704636/sending-email-through-gmail-smtp-server-with-c-sharp
